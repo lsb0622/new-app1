@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PDOLogin</string>
+    <string name="hint_id">ID를 입력하세요</string>
+    <string name="hint_password">패스워드를 입력하세요</string>
+    <string name="hint_name">성명을 입력하세요</string>
+    <string name="hint_mobileNO">휴대폰번호를 입력하세요</string>
+    <string name="hint_email">이메일을 입력하세요</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_register">회원가입</string>
+    <string name="btn_logout">로그아웃</string>
+    <string name="login_success">로그인성공!</string>
+    <string name="Register_text1">이 앱은 회원가입을 해야 정상적으로 사용할 수 있습니다. Email로 등록해 주세요.</string>
+    <string name="Register_text2">Enter email</string>
+    <string name="Register_text3">Enter password</string>
+    <string name="Register_text4">회원가입</string>
+    <string name="Register_text5">회원이시면 여기에서 로그인 해주세요.</string>
+    <string name="Register_text6">Enter password</string>
+</resources>
